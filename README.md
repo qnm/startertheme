@@ -33,3 +33,4 @@ We're now ready to begin 'Dividing our Page' below.
 - [x] [Configure Wordpress](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#configure-wordpress)
 - [x] [Create Custom Theme](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#creating-your-custom-theme)
 - [ ] [Dividing our Page](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#dividing-your-page-into-sections)
+- [ ] [Looking at Main Settings](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/#main-settings)
